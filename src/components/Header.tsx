@@ -7,7 +7,7 @@ export const Header = () => {
         <BrainCircuit className="w-14 h-14 text-white" />
       </div>
       <h1 className="text-3xl font-bold tracking-tight text-slate-800">
-        Quiz GincaSeb
+        Quiz GINKASEB
       </h1>
     </header>
   );
