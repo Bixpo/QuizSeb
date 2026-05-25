@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "difficulty": "Fácil",
+    "question": "Qual país venceu a primeira Copa do Mundo em 1930?",
+    "options": ["Brasil", "Alemanha", "Uruguai", "Itália"],
+    "answer": "Uruguai"
+  },
+  {
+    "id": 2,
+    "difficulty": "Fácil",
+    "question": "Quantas estrelas a seleção brasileira possui?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "id": 3,
+    "difficulty": "Fácil",
+    "question": "Em que país aconteceu a Copa do Mundo de 2014?",
+    "options": ["Alemanha", "Brasil", "Rússia", "África do Sul"],
+    "answer": "Brasil"
+  },
+  {
+    "id": 4,
+    "difficulty": "Fácil",
+    "question": "Quem é conhecido como “Rei do Futebol”?",
+    "options": ["Lionel Messi", "Pelé", "Cristiano Ronaldo", "Diego Maradona"],
+    "answer": "Pelé"
+  },
+  {
+    "id": 5,
+    "difficulty": "Fácil",
+    "question": "Qual seleção venceu a Copa de 2018?",
+    "options": ["Croácia", "França", "Argentina", "Alemanha"],
+    "answer": "França"
+  },
+  {
+    "id": 6,
+    "difficulty": "Fácil",
+    "question": "Qual país sediou a Copa de 2010?",
+    "options": ["Japão", "Catar", "África do Sul", "México"],
+    "answer": "África do Sul"
+  },
+  {
+    "id": 7,
+    "difficulty": "Fácil",
+    "question": "Quem marcou o gol do título da Argentina na final de 1986?",
+    "options": ["Diego Maradona", "Jorge Burruchaga", "Gabriel Batistuta", "Mario Kempes"],
+    "answer": "Jorge Burruchaga"
+  },
+  {
+    "id": 8,
+    "difficulty": "Fácil",
+    "question": "Qual seleção ficou famosa pelo “Carrossel Holandês”?",
+    "options": ["Espanha", "Holanda", "Alemanha", "Bélgica"],
+    "answer": "Holanda"
+  },
+  {
+    "id": 9,
+    "difficulty": "Fácil",
+    "question": "Qual jogador é o maior artilheiro da história das Copas até 2026?",
+    "options": ["Pelé", "Miroslav Klose", "Ronaldo Nazário", "Lionel Messi"],
+    "answer": "Miroslav Klose"
+  },
+  {
+    "id": 10,
+    "difficulty": "Fácil",
+    "question": "Em qual país aconteceu a Copa de 2022?",
+    "options": ["Emirados Árabes", "Catar", "Japão", "Estados Unidos"],
+    "answer": "Catar"
+  },
+  {
+    "id": 11,
+    "difficulty": "Médio",
+    "question": "Quem venceu a Copa de 2002?",
+    "options": ["Alemanha", "Brasil", "França", "Itália"],
+    "answer": "Brasil"
+  },
+  {
+    "id": 12,
+    "difficulty": "Médio",
+    "question": "Qual foi o placar do famoso 7x1?",
+    "options": ["Brasil 1 x 7 Alemanha", "Alemanha 1 x 7 Brasil", "Brasil 7 x 1 Alemanha", "Brasil 1 x 5 Alemanha"],
+    "answer": "Brasil 1 x 7 Alemanha"
+  },
+  {
+    "id": 13,
+    "difficulty": "Médio",
+    "question": "Quem fez dois gols na final da Copa de 2002?",
+    "options": ["Ronaldinho Gaúcho", "Rivaldo", "Ronaldo Nazário", "Kaká"],
+    "answer": "Ronaldo Nazário"
+  },
+  {
+    "id": 14,
+    "difficulty": "Médio",
+    "question": "Qual seleção ganhou a Copa de 1998?",
+    "options": ["Brasil", "Alemanha", "França", "Argentina"],
+    "answer": "França"
+  },
+  {
+    "id": 15,
+    "difficulty": "Médio",
+    "question": "Em qual ano a Itália ganhou sua última Copa?",
+    "options": ["1994", "2002", "2006", "2010"],
+    "answer": "2006"
+  },
+  {
+    "id": 16,
+    "difficulty": "Médio",
+    "question": "Quem eliminou o Brasil na Copa de 2022?",
+    "options": ["França", "Argentina", "Croácia", "Holanda"],
+    "answer": "Croácia"
+  },
+  {
+    "id": 17,
+    "difficulty": "Médio",
+    "question": "Qual jogador ficou conhecido pela “Mão de Deus”?",
+    "options": ["Pelé", "Diego Maradona", "Zinedine Zidane", "Romário"],
+    "answer": "Diego Maradona"
+  },
+  {
+    "id": 18,
+    "difficulty": "Médio",
+    "question": "Qual seleção venceu a Copa de 2010?",
+    "options": ["Holanda", "Espanha", "Alemanha", "Brasil"],
+    "answer": "Espanha"
+  },
+  {
+    "id": 19,
+    "difficulty": "Médio",
+    "question": "Quem marcou o gol do título da Espanha em 2010?",
+    "options": ["David Villa", "Andrés Iniesta", "Fernando Torres", "Xavi"],
+    "answer": "Andrés Iniesta"
+  },
+  {
+    "id": 20,
+    "difficulty": "Médio",
+    "question": "Qual foi a final da Copa de 2014?",
+    "options": ["Brasil x Alemanha", "Alemanha x Argentina", "França x Alemanha", "Holanda x Argentina"],
+    "answer": "Alemanha x Argentina"
+  },
+  {
+    "id": 21,
+    "difficulty": "Difícil",
+    "question": "Qual seleção venceu a Copa de 1958?",
+    "options": ["Brasil", "Suécia", "Itália", "Uruguai"],
+    "answer": "Brasil"
+  },
+  {
+    "id": 22,
+    "difficulty": "Difícil",
+    "question": "Quem foi o artilheiro da Copa de 1970?",
+    "options": ["Pelé", "Jairzinho", "Gerd Müller", "Tostão"],
+    "answer": "Gerd Müller"
+  },
+  {
+    "id": 23,
+    "difficulty": "Difícil",
+    "question": "Qual país sediou a Copa de 1994?",
+    "options": ["México", "Estados Unidos", "França", "Itália"],
+    "answer": "Estados Unidos"
+  },
+  {
+    "id": 24,
+    "difficulty": "Difícil",
+    "question": "Quem perdeu o pênalti decisivo para a Itália em 1994?",
+    "options": ["Romário", "Roberto Baggio", "Franco Baresi", "Dunga"],
+    "answer": "Roberto Baggio"
+  },
+  {
+    "id": 25,
+    "difficulty": "Difícil",
+    "question": "Quantas Copas a Alemanha possui?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "id": 26,
+    "difficulty": "Difícil",
+    "question": "Quem foi campeão da Copa de 1966?",
+    "options": ["Alemanha", "Inglaterra", "Brasil", "Argentina"],
+    "answer": "Inglaterra"
+  },
+  {
+    "id": 27,
+    "difficulty": "Difícil",
+    "question": "Qual seleção perdeu a final de 2022 nos pênaltis?",
+    "options": ["França", "Croácia", "Marrocos", "Portugal"],
+    "answer": "França"
+  },
+  {
+    "id": 28,
+    "difficulty": "Difícil",
+    "question": "Quem foi eleito o melhor jogador da Copa de 2014?",
+    "options": ["Neymar", "Thomas Müller", "Lionel Messi", "James Rodríguez"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 29,
+    "difficulty": "Difícil",
+    "question": "Qual jogador marcou o gol mais rápido da história das Copas?",
+    "options": ["Hakan Şükür", "Ronaldo Nazário", "Miroslav Klose", "Pelé"],
+    "answer": "Hakan Şükür"
+  },
+  {
+    "id": 30,
+    "difficulty": "Difícil",
+    "question": "Qual foi a primeira seleção africana a chegar em uma semifinal de Copa?",
+    "options": ["Camarões", "Nigéria", "Gana", "Marrocos"],
+    "answer": "Marrocos"
+  }
+]
