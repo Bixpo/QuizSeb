@@ -1,5 +1,4 @@
 import { BrainCircuit } from "lucide-react";
-import React from "react";
 
 export const Header = () => {
   return (
